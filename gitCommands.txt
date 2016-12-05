@@ -1,3 +1,29 @@
 git init
 to initilize repository
 
+git status
+to check the status
+
+git add
+to add the file that have to be committed
+
+git commit -m "your message"
+to commit your file
+
+git branch
+to check the branch we are on
+
+git checkout -b my-new-branch
+to create a new branch
+
+git checkout master
+to swtich back to master
+
+git remote add origin https://github.com/faizi00/mynewrepo.git
+git push -u origin master
+
+to add local repository to 
+
+git push origin branchname 
+to add a branch to git repository
+
